@@ -16,7 +16,7 @@ int main() {
         cout << "\n\nPick Num2\n*_>";
         cin >> Num2;
 
-        cout << "\n\nPick operation. (1 = +, 2 = -, 3 = * 4 = / 5 = ^)\n*_>";
+        cout << "\n\nPick operation. (1 = +, 2 = -, 3 = *, 4 = /, 5 = ^)\n*_>";
         cin >> operation;
         cout << endl;
         cout << endl;
